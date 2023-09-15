@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">UI Application</string>
+    <string name="apellido">Escriba su apellido</string>
+    <string name="password">Escriba su contraseña</string>
+    <string name="nombre">Escriba su nombre</string>
+    <string name="correo">Escriba su correo</string>
+    <string name="example_gmail_com">example@gmail.com</string>
+    <string name="mensaje">Bienvenido!</string>
+
+    <string name="btn_ingresar">Ingresar</string>
+    <string name="btn_registro">Registrarme</string>
+    <string name="btn_login">Ir al Login</string>
+
+    <string name="descripcion_imagen_login">Imagen Logo</string>
+    <string name="descripcion_imagen_registro">Imagen registro</string>
+</resources>
