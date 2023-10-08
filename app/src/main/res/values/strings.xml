@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">UI Application</string>
+    <string name="app_name">LibroReg</string>
     <string name="apellido">Escriba su apellido</string>
     <string name="password">Escriba su contraseña</string>
     <string name="nombre">Escriba su nombre</string>
@@ -11,6 +11,16 @@
     <string name="btn_registro">Registrarme</string>
     <string name="btn_login">Ir al Login</string>
 
+    <string name="descripcion_image_inicio">Imagen Inicio</string>
     <string name="descripcion_imagen_login">Imagen Logo</string>
     <string name="descripcion_imagen_registro">Imagen registro</string>
+
+    <string name="serial">Ingrese el serial</string>
+    <string name="text_hint_autor">Ingrese el autor</string>
+    <string name="text_hint_libro">Ingrese el nombre del libro</string>
+    <string name="text_button_guardar">Guardar</string>
+    <string name="text_button_listar">Listar</string>
+    <string name="text_button_eliminar">Eliminar</string>
+    <string name="text_button_editar">Editar</string>
+    <string name="text_button_salir">Salir</string>
 </resources>

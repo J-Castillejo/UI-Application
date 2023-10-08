@@ -1,0 +1,39 @@
+<vector
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:name="vector"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+    <group android:name="group"/>
+    <path
+        android:name="path"
+        android:pathData="M 37.3 1.5 L 37.3 46.5 L 5.6 46.5 C 3.3 46.5 1.5 44.7 1.5 42.4 L 1.5 5.6"
+        android:fillColor="#ffbf5b"
+        android:strokeWidth="1"/>
+    <path
+        android:name="path_1"
+        android:pathData="M 37.3 9.7 L 5.6 9.7 C 3.3 9.7 1.5 7.9 1.5 5.6 C 1.5 3.3 3.3 1.5 5.6 1.5 L 37.3 1.5 L 37.3 9.7 Z M 32.2 27.3 C 32.2 32.3 28.2 36.3 23.2 36.3 C 18.2 36.3 14.2 32.3 14.2 27.3 C 14.2 22.3 18.2 18.3 23.2 18.3 C 28.2 18.3 32.2 22.4 32.2 27.3 Z"
+        android:fillColor="#ffffff"
+        android:strokeWidth="1"/>
+    <path
+        android:name="path_2"
+        android:pathData="M 46 21.4 L 37.3 21.4 L 37.3 13.6 L 46 13.6 L 43.8 17.5 Z"
+        android:fillColor="#ff7170"
+        android:strokeWidth="1"/>
+    <path
+        android:name="path_3"
+        android:pathData="M 23.2 17.6 C 17.8 17.6 13.5 22 13.5 27.3 C 13.5 32.7 17.9 37 23.2 37 C 28.5 37 32.9 32.6 32.9 27.3 C 32.9 22 28.6 17.6 23.2 17.6 Z M 23.2 35.6 C 18.7 35.6 15 31.9 15 27.4 C 15 22.9 18.7 19.2 23.2 19.2 C 27.7 19.2 31.4 22.9 31.4 27.4 C 31.4 31.9 27.7 35.6 23.2 35.6 Z"
+        android:fillColor="#000"
+        android:strokeWidth="1"/>
+    <path
+        android:name="path_4"
+        android:pathData="M 23.9 22.7 L 22.4 22.7 L 22.4 26.6 L 18.6 26.6 L 18.6 28.1 L 22.4 28.1 L 22.4 32 L 23.9 32 L 23.9 28.1 L 27.8 28.1 L 27.8 26.6 L 23.9 26.6 Z"
+        android:fillColor="#000"
+        android:strokeWidth="1"/>
+    <path
+        android:name="path_5"
+        android:pathData="M 38 12.8 L 38 0.8 L 5.6 0.8 C 2.9 0.8 0.7 3 0.7 5.7 L 0.7 42.5 C 0.7 45.2 2.9 47.4 5.6 47.4 L 38 47.4 L 38 22.1 L 47.3 22.1 L 44.6 17.4 L 47.3 12.7 L 38 12.7 Z M 5.6 2.3 L 36.6 2.3 L 36.6 4.9 L 6.2 4.9 L 6.2 6.4 L 36.6 6.4 L 36.6 9 L 5.6 9 C 3.7 9 2.2 7.5 2.2 5.6 C 2.2 3.8 3.7 2.3 5.6 2.3 Z M 2.2 42.4 L 2.2 9.1 C 3.1 9.9 4.3 10.5 5.6 10.5 L 7.5 10.5 L 7.5 45.8 L 5.6 45.8 C 3.7 45.8 2.2 44.2 2.2 42.4 Z M 36.5 45.8 L 8.9 45.8 L 8.9 10.5 L 36.5 10.5 L 36.5 45.8 Z M 44.7 20.6 L 38 20.6 L 38 14.3 L 44.7 14.3 L 42.9 17.5 L 44.7 20.6 Z"
+        android:fillColor="#000"
+        android:strokeWidth="1"/>
+</vector>
